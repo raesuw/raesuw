@@ -6,13 +6,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div align="center">
-<img src="https://komarev.com/ghpvc/?username=raesuw&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=raesuw&style=flat-square&color=blue" alt="View Couter"/>
 <h1 align="center">
   welcome! ☕
-</h1>
-<div id="maozinha" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- </div>
+</h1>
 
 
 <!--
