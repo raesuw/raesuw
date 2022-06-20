@@ -9,6 +9,12 @@
 <h1>
   welcome! ☕
 </h1>
+  
+---
+
+### :technologist: about raesu:
+  im a brazilian programmer, mainly back-end for now, but i personally want to stick around front-end after finishing my courses.
+  im currently using and learning python and js
 
 
 <!--
